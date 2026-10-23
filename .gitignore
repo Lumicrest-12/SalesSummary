@@ -1,0 +1,14 @@
+
+__pycache__/
+*.pyc
+ 
+
+build_env/
+build/
+dist/
+*.spec
+
+*_สรุป.xlsx
+!samples/*_สรุป.xlsx
+
+customer_data/
